@@ -35,3 +35,4 @@ void drawLine3D(char *buffer, int width, int height, Vec3 a, Vec3 b, Camera cam)
 void present(char *buffer, int width, int height);
 
 #endif
+// Estas funciones se explican a detalle en el archivo render.c
