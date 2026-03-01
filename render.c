@@ -2,6 +2,8 @@
 HASTE UN FAVOR Y NO VEAS ESTE CODIGO, ¡AHORRA 10 MINUTOS DE TU VIDA! :
 ESTA **HORRIBLEMENTE HECHO** Y HORIBLEMENTE EXPLICADO(literal los comentarios solo son para recordar cuando reanude el proyecto en 6 meses)
 
+Tarde como 6 horas haciendo esto, pero no me importa. Si quieres usar esto en otro proyecto para algo?, sientete libre, no ocupas dar creditos ni nada, me importa un comino
+
 */
 
 
